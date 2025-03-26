@@ -33,3 +33,8 @@ Modules
    - Testbench that simulates the clock and reset signals.
    - Observes and prints the traffic light signals for both directions at regular intervals.
    - Displays light transitions in a format that helps verify correct FSM behavior.
+
+Simulation Screenshot
+---------------------
+
+[Simulation Waveform](https://github.com/hitechzex/Traffic_Light/blob/main/simulation_screenshot.png?raw=true)
